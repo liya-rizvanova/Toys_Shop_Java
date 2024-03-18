@@ -1,0 +1,10 @@
+ID: 5, Name: Bear, Frequency: 40.0%
+ID: 3, Name: Car, Frequency: 45.0%
+ID: 5, Name: Bear, Frequency: 40.0%
+ID: 3, Name: Car, Frequency: 45.0%
+ID: 3, Name: Car, Frequency: 45.0%
+ID: 5, Name: Bear, Frequency: 40.0%
+ID: 3, Name: Car, Frequency: 45.0%
+ID: 1, Name: Ball, Frequency: 20.0%
+ID: 1, Name: Ball, Frequency: 20.0%
+ID: 3, Name: Car, Frequency: 45.0%
